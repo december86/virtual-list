@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/virtual-list/static/css/main.e6c13ad2.css",
+    "main.js": "/virtual-list/static/js/main.79b9e1aa.js",
+    "index.html": "/virtual-list/index.html",
+    "main.e6c13ad2.css.map": "/virtual-list/static/css/main.e6c13ad2.css.map",
+    "main.79b9e1aa.js.map": "/virtual-list/static/js/main.79b9e1aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79b9e1aa.js"
+  ]
+}
