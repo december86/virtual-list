@@ -5,7 +5,7 @@ import Posts from "./components/Posts";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Posts />} />
         <Route path="/posts/:id" element={<Post />} />
