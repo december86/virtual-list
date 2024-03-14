@@ -2,7 +2,7 @@
   "name": "posts",
   "version": "0.1.0",
   "homepage": "https://december86.github.io/virtual-list",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.1",
     "@testing-library/jest-dom": "^5.14.1",
